@@ -1,9 +1,9 @@
 {
-  "name": "pancake-info-api",
+  "name": "zoeswap-info-api",
   "version": "1.0.0",
-  "description": "Serverless API implementation for PancakeSwap on-chain data query.",
-  "repository": "git@github.com:pancakeswap/pancake-info-api.git",
-  "author": "PancakeSwap",
+  "description": "Serverless API implementation for zoeswap on-chain data query.",
+  "repository": "git@github.com:zoe-cash/zoeswap-info-api.git",
+  "author": "zoeswap",
   "license": "MIT",
   "scripts": {
     "format:check": "prettier --check '*/**/*.{js,ts}'",
